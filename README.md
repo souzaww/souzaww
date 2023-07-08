@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @souzaww
-- 👀 I’m interested in become a developer
+- 👀 I’m interested in become a developer/data engineer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any project where i'm able to learn more about Python and DevOps
 - 📫 How to reach me: souza.marcelomoreira@gmail.com
